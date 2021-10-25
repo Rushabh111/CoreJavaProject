@@ -6,3 +6,5 @@
 as a discount).
 5. The percentage based discounts do not apply on groceries.
 6. A user can get only one of the percentage based discounts on a bill.ect
+
+This project contains a src folder which has Test.java project which is used to the application.
